@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leamandawn
 - 👀 I’m interested in Travel, Photography, History
-- aspire to have a data analytics career that deals with
-- Geospatial data that drive patterns and insights for targeted solutions
+-     aspire to have a data analytics career that deals with
+-     Geospatial data that drive patterns and insights for targeted solutions
 - 🌱 I’m currently learning Business/Data Analytics
 - 📫 How to reach me leamandawn@gmail.com
 
