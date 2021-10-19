@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @leamandawn
+- 
 - 👀 I’m interested in Travel, Photography, History
 -     data analytics dealing with
 -     Geospatial data that drive patterns and insights for targeted solutions
-- 🌱 I’m currently on work term
+-     
+- 🌱 I’m currently enjoying work term
 - 
 - - 📫 How to reach me leamandawn@gmail.com
 
